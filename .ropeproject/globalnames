@@ -1,0 +1,9 @@
+€}q(Ublog.models]Umysite]Umysite.settings]q(U	TEMPLATESqUAUTH_PASSWORD_VALIDATORSqUUSE_L10NqUSTATIC_ROOTqUUSE_TZqU
+MIDDLEWAREqULANGUAGE_CODEq	U	TIME_ZONEq
+U
+STATIC_URLqUUSE_I18NqUROOT_URLCONFqUWSGI_APPLICATIONqU	DATABASESqUDEBUGqUALLOWED_HOSTSqU
+SECRET_KEYqUBASE_DIRqUINSTALLED_APPSqeUmysite.wsgi]qUapplicationqaUmanage]U
+blog.admin]Ublog]U
+blog.tests]Umysite.urls]qUurlpatternsqaU	blog.apps]qU
+BlogConfigqaUblog.migrations]U
+blog.views]u.
